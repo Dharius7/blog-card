@@ -34,6 +34,11 @@ body {
 }
 .text3 {
   font-size: 23px;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+}
+.text3:hover{
+    color: hsl(47, 88%, 63%);
 }
 .text4 {
   font-size: 16px;
